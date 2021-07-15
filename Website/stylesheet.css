@@ -1,0 +1,9 @@
+body{
+    background-color: chartreuse;
+    font: size 24px ;
+}
+
+p{
+    color: crimson;
+    font-weight: bold;
+}
